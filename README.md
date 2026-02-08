@@ -1,4 +1,4 @@
-# prisma-nextjs (README 2)
+# prisma-nextjs
 
 Este archivo resume, en formato más directo, cómo recreé el Job Board siguiendo el tutorial de **machadop1407** y qué comandos usé para publicarlo en mi propio repositorio.
 
